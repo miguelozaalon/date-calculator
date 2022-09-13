@@ -1,6 +1,6 @@
-# Calculator of dates
+# Date calculator
 
 Enter the year, month and day.
 Then the program will calculate the days between today and the entered date.
 
-Author: miguelozaalon
+Author: @miguelozaalon
